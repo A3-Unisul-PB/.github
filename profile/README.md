@@ -7,7 +7,7 @@ A organização foi criada no intuito de armazenar os projetos de todas as A3 re
 
 <br>
 
-## Como faço para contribuir?
-A organização **não aceita** contribuições. A mesma se dedica apenas ao armazenamento dos projetos criados durante a totalidade do curso.
+## Como faço para contribuir? 😬
+Infelizmente a organização **não aceita** contribuições. A mesma se dedica apenas ao armazenamento dos projetos criados durante a totalidade do curso e acompanhamento do progresso dos participantes.
 
 <br>
